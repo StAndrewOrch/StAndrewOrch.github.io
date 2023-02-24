@@ -18,7 +18,7 @@ The St Andrew Amateur Orchestral Society was founded in 1879 and
 since its foundation, the orchestra has met regularly and has given
 concerts every year since then.
 
-This photograph is from the Edinburgh Evening News, circa 1955.
+![Orchestra photo from the Evening News circa 1955.](/images/assets/orch_1955.jpeg)
 
-![Orchestra from the Evening News circa 1955.](/assets/orch_1955.jpeg)
+This photograph is from the Edinburgh Evening News, circa 1955.
 
