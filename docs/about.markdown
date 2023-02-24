@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Who are we?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In the year 1878 two young amateur musicians, Arthur Christie and
+Robert Shirar advertised in 'The Scotsman' for players interested
+in forming an orchestra. The response being satisfactory, Christie,
+who was a member of St Andrew's Church in George Street, applied
+for permission to use the church hall for practices. His request
+was met, a conductor was appointed and the orchestra was named after
+the church.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The St Andrew Amateur Orchestral Society was founded in 1879 and
+since its foundation, the orchestra has met regularly and has given
+concerts every year since then.
 
+This photograph is from the Edinburgh Evening News, circa 1955.
 
-[jekyll-organization]: https://github.com/jekyll
+![Orchestra from the Evening News circa 1955.](/assets/orch_1955.jpeg)
+
