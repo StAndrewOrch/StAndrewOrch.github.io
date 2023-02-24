@@ -22,3 +22,13 @@ concerts every year since then.
 
 This photograph is from the Edinburgh Evening News, circa 1955.
 
+## Our conductor
+
+Our conductor is John Glenesk Mortimer. John has conducted and
+played in Scotland and Switzerland as well as having been a composer
+and arranger for many years. He has conducted the orchestra since
+2006.
+
+![Photo of John Glenesk Mortimer.](/images/assets/john.png)
+
+You can find out more about John at his own [website](http://www.johngleneskmortimer.com/).
