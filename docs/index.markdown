@@ -9,7 +9,7 @@ layout: home
 ## Edinburgh's longest-established Amateur Orchestra
 
 Andrew Orchestra is a friendly amateur orchestra conducted by [John
-Glenesk Mortimer](http://www.johngleneskmortimer.com/site/). We
+Glenesk Mortimer](http://www.johngleneskmortimer.com/). We
 rehearse between September and May, putting on two concerts per
 year.
 
