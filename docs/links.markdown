@@ -4,15 +4,13 @@ title: Links
 permalink: /links/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* [Royal Scottish National Orchestra](https://www.rsno.org.uk/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* [Scottish Chamber Orchestra](https://www.sco.org.uk/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* [Uk Amateur Orchestras](https://www.amateurorchestras.org.uk/)
 
+The photographs on this website were taken by Ali Watt, photographer. 
 
-[jekyll-organization]: https://github.com/jekyll
+![A view from the violas.](/images/assets/viola_view.jpeg)
+
