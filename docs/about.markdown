@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who are we?
+title: About
 permalink: /about/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Upcoming concerts
+title: Concerts
 permalink: /conerts/
 ---
 

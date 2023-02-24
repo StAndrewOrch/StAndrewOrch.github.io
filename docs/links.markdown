@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links & Contact
+title: Links
 permalink: /links/
 ---
 

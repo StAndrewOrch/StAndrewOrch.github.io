@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Orchestra Calendar
+title: Calendar
 permalink: /calendar/
 ---
 
