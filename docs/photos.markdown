@@ -16,7 +16,8 @@ which is a nuisance to dry when it gets wet.
 <table border="0">
 <tr>
 <td>
-<img src="/images/assets/p1040203.jpg">
+<!-- <img src="/images/assets/p1040203.jpg"> -->
+![](/images/assets/p1040203.jpg)
 </td>
 <td>
 <img src="/images/assets/p1040210.jpg">
