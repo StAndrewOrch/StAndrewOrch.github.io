@@ -63,28 +63,8 @@ soloist [Florian Meierott](https://www.meierott.de/) and Saint-Saëns
 Introduction and Rondo Capriccioso, also with Florian Meierott.  We
 had a fantastic time in Germany and the concert was a great success!
 
-<table border="0">
-<tr>
-<td>
-<img src="/images/assets/frank.jpeg">
-</td>
-<td>
-<img src="/images/assets/church.jpeg">
-</td>
-<td>
-<img src="/images/assets/altar.jpeg">
-</td>
-</tr>
-<tr>
-<td>
-<img src="/images/assets/chairs.jpeg">
-</td>
-<td>
-<img src="/images/assets/ger_cellos.jpeg">
-</td>
-<td>
-<img src="/images/assets/ger_singer.jpeg">
-</td>
-</tr>
-</table>
+|   |   |   |
+:---:|:---:|:---:
+![](/images/assets/frank.jpeg) | ![](/images/assets/church.jpeg) | ![](/images/assets/altar.jpeg)
+![](/images/assets/chairs.jpeg) | ![](/images/assets/ger_cellos.jpeg) | ![](/images/assets/ger_singer.jpeg)
 
