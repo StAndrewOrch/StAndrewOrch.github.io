@@ -37,7 +37,7 @@ Struass Concerto in D Major for Oboe and Small Orchestra with soloist
 Freya Linea Obijon.
 
 |   |   |   |
-:---:---:---:
+:---:|:---:|:---:
 ![](/images/assets/img-1883.jpg) | ![](/images/assets/img-1891.jpg) | ![](/images/assets/img-1917.jpg)
 
 ### Edinburgh Concert - May 2015
@@ -50,7 +50,7 @@ Stabat Mater, written by our conductor John Glenesk Mortimer.  Many
 thanks to photographer Ali Watt for taking the photographs below.
 
 |   |   |   |
-:---:---:---:
+:---:|:---:|:---:
 ![](/images/assets/rehearsal.jpeg) | ![](/images/assets/choir_rehearsal.jpeg) | ![](/images/assets/violins.jpeg)
 ![](/images/assets/philippe.jpeg) | ![](/images/assets/choir.jpeg) | ![](/images/assets/joint_rehearsal.jpeg)
 
