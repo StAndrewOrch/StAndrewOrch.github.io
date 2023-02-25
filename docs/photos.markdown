@@ -36,19 +36,9 @@ Our concert on 30th Novemebr 2019 included a performance of the
 Struass Concerto in D Major for Oboe and Small Orchestra with soloist
 Freya Linea Obijon.
 
-<table border="0">
-<tr>
-<td>
-<img src="/images/assets/img-1883.jpg">
-</td>
-<td>
-<img src="/images/assets/img-1891.jpg">
-</td>
-<td>
-<img src="/images/assets/img-1917.jpg">
-</td>
-</tr>
-</table>
+|   |   |   |
+:---:---:---:
+![](/images/assets/img-1883.jpg) | ![](/images/assets/img-1891.jpg) | ![](/images/assets/img-1917.jpg)
 
 ### Edinburgh Concert - May 2015
 
@@ -59,30 +49,10 @@ Beethoven 's Violin Romance in F, Schicksalslied by Brahms and
 Stabat Mater, written by our conductor John Glenesk Mortimer.  Many
 thanks to photographer Ali Watt for taking the photographs below.
 
-<table border="0">
-<tr>
-<td>
-<img src="/images/assets/rehearsal.jpeg">
-</td>
-<td>
-<img src="/images/assets/choir_rehearsal.jpeg">
-</td>
-<td>
-<img src="/images/assets/violins.jpeg">
-</td>
-</tr>
-<tr>
-<td>
-<img src="/images/assets/philippe.jpeg">
-</td>
-<td>
-<img src="/images/assets/choir.jpeg">
-</td>
-<td>
-<img src="/images/assets/joint_rehearsal.jpeg">
-</td>
-</tr>
-</table>
+|   |   |   |
+:---:---:---:
+![](/images/assets/rehearsal.jpeg) | ![](/images/assets/choir_rehearsal.jpeg) | ![](/images/assets/violins.jpeg)
+![](/images/assets/philippe.jpeg) | ![](/images/assets/choir.jpeg) | ![](/images/assets/joint_rehearsal.jpeg)
 
 ### Trip to Würzburg - July 2013
 
