@@ -13,17 +13,9 @@ playing.  There was thunder, lightning and heavy rain half an hour
 after we finished.  Just enough time to dismantle the green tent,
 which is a nuisance to dry when it gets wet.
 
-<table border="0">
-<tr>
-<td>
-<!-- <img src="/images/assets/p1040203.jpg"> -->
-![](/images/assets/p1040203.jpg)
-</td>
-<td>
-<img src="/images/assets/p1040210.jpg">
-</td>
-</tr>
-</table>
+|   |  |
+:---:|:----:
+![](/images/assets/p1040203.jpg) | ![](/images/assets/p1040210.jpg)
 
 ### Virtual Ensemble - December 2020
 Some members of the Orchestra are showcased in this video playing
