@@ -22,8 +22,8 @@ title: St Andrew Orchestra
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Edinburgh's longest-established Amateur Orchestra
-baseurl: "/standrew" # the subpath of your site, e.g. /blog
-url: "https//marioa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https//standreworch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
